@@ -1,0 +1,17 @@
+{
+    "ownerNumber": ["62895379169488@s.whatsapp.net"],
+    "ownerName": ["Fadly ID"],
+    "botName": "X-None Bot",
+    "instagram": "iamfadlyid_",
+    "footer": "© X-None Team",
+    "no_ewallet": "0895379169488",
+    "sessionName": "xnone-md",
+    "pathimg": "./media/x-none.jpg",
+    "qrisimg": "./media/qris.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
